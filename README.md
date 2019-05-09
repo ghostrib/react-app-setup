@@ -8,3 +8,7 @@ To use this script:
 4. Move the file to `/usr/local/bin` by running the command `mv setup.sh /usr/local/bin/setup`
 5. Verify the file is no longer in the repo folder by running `ls`
 6. You can now delete the repo
+
+## Running the script
+
+Similar to create-react-app, simply running `setup my-new-react-app` will create a new folder called `my-new-react-app` in your current directory.
