@@ -1,0 +1,19 @@
+{
+  "name": "react-app-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostrib/react-app-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostrib/react-app-setup/issues"
+  },
+  "homepage": "https://github.com/ghostrib/react-app-setup#readme"
+}
